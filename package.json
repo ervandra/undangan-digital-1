@@ -34,8 +34,8 @@
   "dependencies": {
     "color": "1.0.3",
     "expo": "28.0.0",
-    "lodash": "4.13.1",
-    "moment": "2.13.0",
+    "lodash": "4.17.5",
+    "moment": "2.19.3",
     "native-base": "2.5.2",
     "react": "16.3.1",
     "react-native": "0.55.4",
